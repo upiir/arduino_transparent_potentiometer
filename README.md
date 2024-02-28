@@ -24,6 +24,8 @@ Pimp my Potentiometer series:
 - Pimp my Potentiometer -CHEAPER- - https://youtu.be/Bot865qmdsM
 
 
+![THUMB_transparent_potentiometer](https://github.com/upiir/arduino_transparent_potentiometer/assets/117754156/1ef08743-0771-4599-82ad-7d15552a4fe8)
+
 
 
 
