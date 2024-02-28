@@ -2,9 +2,9 @@
 Using Transparent Potentiometer with Arduino UNO R3
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/Q3iCfZVcUjU**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/390977792543994881**
 
 
 Links from the video:
