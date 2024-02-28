@@ -1,0 +1,18754 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1012
+  9
+$DWGCODEPAGE
+  3
+ansi_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$EXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$DRAGMODE
+ 70
+     2
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$OSMODE
+ 70
+    37
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DELOBJ
+ 70
+     1
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+STANDARD
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     1
+  9
+$DIMTZIN
+ 70
+     0
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMFIT
+ 70
+     3
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMUNIT
+ 70
+     2
+  9
+$DIMDEC
+ 70
+     4
+  9
+$DIMTDEC
+ 70
+     4
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     2
+  9
+$DIMTXSTY
+  7
+STANDARD
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.5
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.5
+  9
+$CHAMFERB
+ 40
+0.5
+  9
+$CHAMFERC
+ 40
+1.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2460332.385755081
+  9
+$TDUPDATE
+ 40
+2460332.385755197
+  9
+$TDINDWG
+ 40
+0.0000000116
+  9
+$TDUSRTIMER
+ 40
+0.0000000116
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$COORDS
+ 70
+     1
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$ATTDIA
+ 70
+     0
+  9
+$ATTREQ
+ 70
+     1
+  9
+$HANDLING
+ 70
+     1
+  9
+$HANDSEED
+  5
+38E
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$PICKSTYLE
+ 70
+     1
+  9
+$CMLSTYLE
+  2
+STANDARD
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+1.0
+  9
+$SAVEIMAGES
+ 70
+     1
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+    32768
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+     1153
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+     1024
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+XRECORD
+  2
+AcDbXrecord
+  3
+AutoCAD 2000
+ 90
+    32768
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LWPOLYLINE
+  2
+AcDbPolyline
+  3
+AutoCAD 2000
+ 90
+    32768
+280
+     0
+281
+     1
+  0
+CLASS
+  1
+HATCH
+  2
+AcDbHatch
+  3
+AutoCAD 2000
+ 90
+    32768
+280
+     0
+281
+     1
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+29
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+5.944802625201241
+ 27
+4.474101972475447
+ 37
+0.0
+ 40
+2.362204724409442
+ 41
+1.333333333333334
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BYBLOCK
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BYLAYER
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CONTINUOUS
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+    17
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+40
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LAYER_1
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+41
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LAYER_2
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+42
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LAYER_3
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+43
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LAYER_4
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+44
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LAYER_5
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+45
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_RADIUS
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+46
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_RADIUS_COPY
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+47
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_SILKSCREEN
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+48
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_HOLES_OUTLINE
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+49
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_HOLES
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+4A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_OUTLINE
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_TICKMARKS_BIG
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+4C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LASER_PANEL_HOLE
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+4D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+INSPIRATION
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+4E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LOGO
+ 70
+     1
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+4F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+PCB_TICKMARKS_---_SOLDERMA
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+STANDARD
+ 70
+     0
+  3
+
+  4
+
+  5
+
+  6
+
+  7
+
+ 40
+1.0
+ 41
+0.18
+ 42
+0.0625
+ 43
+0.38
+ 44
+0.18
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+140
+0.18
+141
+0.09
+142
+0.0
+143
+25.4
+144
+1.0
+145
+0.0
+146
+1.0
+147
+0.09
+ 71
+     0
+ 72
+     0
+ 73
+     1
+ 74
+     1
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+170
+     0
+171
+     2
+172
+     0
+173
+     0
+174
+     0
+175
+     0
+176
+     0
+177
+     0
+178
+     0
+270
+     2
+271
+     4
+272
+     4
+273
+     2
+274
+     2
+340
+11
+275
+     0
+280
+     0
+281
+     0
+282
+     0
+283
+     1
+284
+     0
+285
+     0
+286
+     0
+287
+     3
+288
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*MODEL_SPACE
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*PAPER_SPACE
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+BLOCK_2
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*MODEL_SPACE
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*MODEL_SPACE
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*PAPER_SPACE
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*PAPER_SPACE
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+52
+330
+50
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+BLOCK_2
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+BLOCK_2
+  1
+
+  0
+POLYLINE
+  5
+54
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+55
+330
+54
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.653842570925335
+ 20
+3.770388217348884
+ 30
+0.0
+  0
+VERTEX
+  5
+56
+330
+54
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.428633079610512
+ 20
+4.160462498652944
+ 30
+0.0
+  0
+SEQEND
+  5
+57
+330
+54
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+58
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+59
+330
+58
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.884695160775991
+ 20
+4.001242317984659
+ 30
+0.0
+  0
+VERTEX
+  5
+5A
+330
+58
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.494620879471944
+ 20
+4.226451809299507
+ 30
+0.0
+  0
+SEQEND
+  5
+5B
+330
+58
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+5C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+5D
+330
+5C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.96919231779821
+ 20
+4.316594128628379
+ 30
+0.0
+  0
+VERTEX
+  5
+5E
+330
+5C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.518773335168539
+ 20
+4.316594128628379
+ 30
+0.0
+  0
+SEQEND
+  5
+5F
+330
+5C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+60
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+61
+330
+60
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.884693097005159
+ 20
+4.631945386286361
+ 30
+0.0
+  0
+VERTEX
+  5
+62
+330
+60
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.494618815701111
+ 20
+4.406735894971525
+ 30
+0.0
+  0
+SEQEND
+  5
+63
+330
+60
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+64
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+65
+330
+64
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.653838996369384
+ 20
+4.862797976137017
+ 30
+0.0
+  0
+VERTEX
+  5
+66
+330
+64
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.428629505054535
+ 20
+4.472723694832969
+ 30
+0.0
+  0
+SEQEND
+  5
+67
+330
+64
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+68
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+69
+330
+68
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.338487185725675
+ 20
+4.947295133159236
+ 30
+0.0
+  0
+VERTEX
+  5
+6A
+330
+68
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.338487185725675
+ 20
+4.496876150529551
+ 30
+0.0
+  0
+SEQEND
+  5
+6B
+330
+68
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+6C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+6D
+330
+6C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.023135928067682
+ 20
+4.862795912366171
+ 30
+0.0
+  0
+VERTEX
+  5
+6E
+330
+6C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.248345419382531
+ 20
+4.472721631062123
+ 30
+0.0
+  0
+SEQEND
+  5
+6F
+330
+6C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+70
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+71
+330
+70
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.792283338217026
+ 20
+4.631941811730409
+ 30
+0.0
+  0
+VERTEX
+  5
+72
+330
+70
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.182357619521073
+ 20
+4.40673232041556
+ 30
+0.0
+  0
+SEQEND
+  5
+73
+330
+70
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+74
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+75
+330
+74
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.70778618119482
+ 20
+4.316590001086689
+ 30
+0.0
+  0
+VERTEX
+  5
+76
+330
+74
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.158205163824505
+ 20
+4.316590001086689
+ 30
+0.0
+  0
+SEQEND
+  5
+77
+330
+74
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+78
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+79
+330
+78
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.792285401987871
+ 20
+4.001238743428707
+ 30
+0.0
+  0
+VERTEX
+  5
+7A
+330
+78
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.182359683291931
+ 20
+4.226448234743543
+ 30
+0.0
+  0
+SEQEND
+  5
+7B
+330
+78
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+7C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+7D
+330
+7C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.023139502623634
+ 20
+3.770386153578051
+ 30
+0.0
+  0
+VERTEX
+  5
+7E
+330
+7C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.248348993938483
+ 20
+4.160460434882099
+ 30
+0.0
+  0
+SEQEND
+  5
+7F
+330
+7C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+80
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+81
+330
+80
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.354629972500144
+ 20
+3.770388217348884
+ 30
+0.0
+  0
+VERTEX
+  5
+82
+330
+80
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.129420481185307
+ 20
+4.160462498652944
+ 30
+0.0
+  0
+SEQEND
+  5
+83
+330
+80
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+84
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+85
+330
+84
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.5854825623508
+ 20
+4.001242317984659
+ 30
+0.0
+  0
+VERTEX
+  5
+86
+330
+84
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.195408281046753
+ 20
+4.226451809299507
+ 30
+0.0
+  0
+SEQEND
+  5
+87
+330
+84
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+88
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+89
+330
+88
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.669979719373019
+ 20
+4.316594128628379
+ 30
+0.0
+  0
+VERTEX
+  5
+8A
+330
+88
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.219560736743333
+ 20
+4.316594128628379
+ 30
+0.0
+  0
+SEQEND
+  5
+8B
+330
+88
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+8C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+8D
+330
+8C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.585480498579955
+ 20
+4.631945386286361
+ 30
+0.0
+  0
+VERTEX
+  5
+8E
+330
+8C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.195406217275907
+ 20
+4.406735894971525
+ 30
+0.0
+  0
+SEQEND
+  5
+8F
+330
+8C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+90
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+91
+330
+90
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.354626397944192
+ 20
+4.862797976137017
+ 30
+0.0
+  0
+VERTEX
+  5
+92
+330
+90
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.129416906629343
+ 20
+4.472723694832969
+ 30
+0.0
+  0
+SEQEND
+  5
+93
+330
+90
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+94
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+95
+330
+94
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.039274587300471
+ 20
+4.947295133159236
+ 30
+0.0
+  0
+VERTEX
+  5
+96
+330
+94
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.039274587300471
+ 20
+4.496876150529551
+ 30
+0.0
+  0
+SEQEND
+  5
+97
+330
+94
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+98
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+99
+330
+98
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.723923329642489
+ 20
+4.862795912366171
+ 30
+0.0
+  0
+VERTEX
+  5
+9A
+330
+98
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.949132820957339
+ 20
+4.472721631062123
+ 30
+0.0
+  0
+SEQEND
+  5
+9B
+330
+98
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+9C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+9D
+330
+9C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.493070739791833
+ 20
+4.631941811730409
+ 30
+0.0
+  0
+VERTEX
+  5
+9E
+330
+9C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.883145021095894
+ 20
+4.40673232041556
+ 30
+0.0
+  0
+SEQEND
+  5
+9F
+330
+9C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+A0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+A1
+330
+A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.408573582769628
+ 20
+4.316590001086689
+ 30
+0.0
+  0
+VERTEX
+  5
+A2
+330
+A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.8589925653993
+ 20
+4.316590001086689
+ 30
+0.0
+  0
+SEQEND
+  5
+A3
+330
+A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+A4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+A5
+330
+A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.493072803562679
+ 20
+4.001238743428707
+ 30
+0.0
+  0
+VERTEX
+  5
+A6
+330
+A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.883147084866727
+ 20
+4.226448234743543
+ 30
+0.0
+  0
+SEQEND
+  5
+A7
+330
+A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+A8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+A9
+330
+A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.723926904198442
+ 20
+3.770386153578051
+ 30
+0.0
+  0
+VERTEX
+  5
+AA
+330
+A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.949136395513291
+ 20
+4.160460434882099
+ 30
+0.0
+  0
+SEQEND
+  5
+AB
+330
+A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+AC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+AD
+330
+AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.681993909260578
+ 20
+3.787653124432786
+ 30
+0.0
+  0
+VERTEX
+  5
+AE
+330
+AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.656046649423084
+ 20
+3.827608400763539
+ 30
+0.0
+  0
+SEQEND
+  5
+AF
+330
+AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+B0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+B1
+330
+B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.709206232762021
+ 20
+3.806355920458827
+ 30
+0.0
+  0
+VERTEX
+  5
+B2
+330
+B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.681203435148618
+ 20
+3.844898464816525
+ 30
+0.0
+  0
+SEQEND
+  5
+B3
+330
+B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+B4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+B5
+330
+B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.735402434005437
+ 20
+3.826457267925004
+ 30
+0.0
+  0
+VERTEX
+  5
+B6
+330
+B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.70542085233794
+ 20
+3.863481437874624
+ 30
+0.0
+  0
+SEQEND
+  5
+B7
+330
+B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+B8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+B9
+330
+B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.760510711024052
+ 20
+3.847902070435036
+ 30
+0.0
+  0
+VERTEX
+  5
+BA
+330
+B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.728632522733833
+ 20
+3.883306385300279
+ 30
+0.0
+  0
+SEQEND
+  5
+BB
+330
+B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+BC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+BD
+330
+BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.784462243775856
+ 20
+3.870631549275963
+ 30
+0.0
+  0
+VERTEX
+  5
+BE
+330
+BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.750774824761164
+ 20
+3.904318968290681
+ 30
+0.0
+  0
+SEQEND
+  5
+BF
+330
+BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+C0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+C1
+330
+C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.807191382774413
+ 20
+3.894583404526126
+ 30
+0.0
+  0
+VERTEX
+  5
+C2
+330
+C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.77178706790917
+ 20
+3.92646159281637
+ 30
+0.0
+  0
+SEQEND
+  5
+C3
+330
+C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+C4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+C5
+330
+C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.828635829029584
+ 20
+3.919691985815184
+ 30
+0.0
+  0
+VERTEX
+  5
+C6
+330
+C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.79161165907994
+ 20
+3.949673567482705
+ 30
+0.0
+  0
+SEQEND
+  5
+C7
+330
+C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+C8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+C9
+330
+C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.848736804804755
+ 20
+3.945888472267092
+ 30
+0.0
+  0
+VERTEX
+  5
+CA
+330
+C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.810194260447057
+ 20
+3.97389126988047
+ 30
+0.0
+  0
+SEQEND
+  5
+CB
+330
+C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+CC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+CD
+330
+CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.867439214722632
+ 20
+3.973101061133345
+ 30
+0.0
+  0
+VERTEX
+  5
+CE
+330
+CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.827483938391828
+ 20
+3.999048320970865
+ 30
+0.0
+  0
+SEQEND
+  5
+CF
+330
+CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+D0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+D1
+330
+D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.900443632749178
+ 20
+4.030274353162339
+ 30
+0.0
+  0
+VERTEX
+  5
+D2
+330
+D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.857995008405926
+ 20
+4.051903007561249
+ 30
+0.0
+  0
+SEQEND
+  5
+D3
+330
+D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+D4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+D5
+330
+D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.914658798184417
+ 20
+4.060077611393404
+ 30
+0.0
+  0
+VERTEX
+  5
+D6
+330
+D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.871136391895308
+ 20
+4.079455035126961
+ 30
+0.0
+  0
+SEQEND
+  5
+D7
+330
+D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+D8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+D9
+330
+D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.927294700210773
+ 20
+4.090583989571112
+ 30
+0.0
+  0
+VERTEX
+  5
+DA
+330
+D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.882817803866272
+ 20
+4.107657070467768
+ 30
+0.0
+  0
+SEQEND
+  5
+DB
+330
+D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+DC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+DD
+330
+DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.938316704699117
+ 20
+4.121709871833269
+ 30
+0.0
+  0
+VERTEX
+  5
+DE
+330
+DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.893007226380556
+ 20
+4.136431813765019
+ 30
+0.0
+  0
+SEQEND
+  5
+DF
+330
+DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+E0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+E1
+330
+E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.947694601101299
+ 20
+4.15336994430019
+ 30
+0.0
+  0
+VERTEX
+  5
+E2
+330
+E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.901676730939293
+ 20
+4.165700395447516
+ 30
+0.0
+  0
+SEQEND
+  5
+E3
+330
+E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+E4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+E5
+330
+E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.955402685255118
+ 20
+4.185477428913878
+ 30
+0.0
+  0
+VERTEX
+  5
+E6
+330
+E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.908802555033112
+ 20
+4.195382592367233
+ 30
+0.0
+  0
+SEQEND
+  5
+E7
+330
+E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+E8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+E9
+330
+E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.961419829837647
+ 20
+4.217944321290752
+ 30
+0.0
+  0
+VERTEX
+  5
+EA
+330
+E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.91436516727347
+ 20
+4.225397047685647
+ 30
+0.0
+  0
+SEQEND
+  5
+EB
+330
+E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+EC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+ED
+330
+EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.965729542273872
+ 20
+4.2506816319356
+ 30
+0.0
+  0
+VERTEX
+  5
+EE
+330
+EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.918349320926912
+ 20
+4.255661493866985
+ 30
+0.0
+  0
+SEQEND
+  5
+EF
+330
+EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+F0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+F1
+330
+F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.968320009941585
+ 20
+4.283599630155461
+ 30
+0.0
+  0
+VERTEX
+  5
+F2
+330
+F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.920744095705155
+ 20
+4.286092978167946
+ 30
+0.0
+  0
+SEQEND
+  5
+F3
+330
+F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+F4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+F5
+330
+F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.968316028375208
+ 20
+4.349615362483834
+ 30
+0.0
+  0
+VERTEX
+  5
+F6
+330
+F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.920740114138804
+ 20
+4.347122014471337
+ 30
+0.0
+  0
+SEQEND
+  5
+F7
+330
+F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+F8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+F9
+330
+F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.965725093645586
+ 20
+4.382533323945103
+ 30
+0.0
+  0
+VERTEX
+  5
+FA
+330
+F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.918344872298626
+ 20
+4.377553462013704
+ 30
+0.0
+  0
+SEQEND
+  5
+FB
+330
+F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+FC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+FD
+330
+FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.961414916711292
+ 20
+4.415270573437612
+ 30
+0.0
+  0
+VERTEX
+  5
+FE
+330
+FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.914360254147141
+ 20
+4.407817847042742
+ 30
+0.0
+  0
+SEQEND
+  5
+FF
+330
+FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+100
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+101
+330
+100
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.955397311467752
+ 20
+4.447737380436024
+ 30
+0.0
+  0
+VERTEX
+  5
+102
+330
+100
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.90879718124577
+ 20
+4.437832216982681
+ 30
+0.0
+  0
+SEQEND
+  5
+103
+330
+100
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+104
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+105
+330
+104
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.947688771752635
+ 20
+4.479844755679133
+ 30
+0.0
+  0
+VERTEX
+  5
+106
+330
+104
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.901670901590629
+ 20
+4.467514304531833
+ 30
+0.0
+  0
+SEQEND
+  5
+107
+330
+104
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+108
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+109
+330
+108
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.938310426137503
+ 20
+4.511504695083103
+ 30
+0.0
+  0
+VERTEX
+  5
+10A
+330
+108
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.893000947818917
+ 20
+4.496782753151352
+ 30
+0.0
+  0
+SEQEND
+  5
+10B
+330
+108
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+10C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+10D
+330
+10C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.927287980015787
+ 20
+4.542630420954676
+ 30
+0.0
+  0
+VERTEX
+  5
+10E
+330
+10C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.882811083671261
+ 20
+4.525557340058033
+ 30
+0.0
+  0
+SEQEND
+  5
+10F
+330
+10C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+110
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+111
+330
+110
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.914651645146149
+ 20
+4.57313661984281
+ 30
+0.0
+  0
+VERTEX
+  5
+112
+330
+110
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.871129238857066
+ 20
+4.553759196109253
+ 30
+0.0
+  0
+SEQEND
+  5
+113
+330
+110
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+114
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+115
+330
+114
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.900436056844127
+ 20
+4.602939676376801
+ 30
+0.0
+  0
+VERTEX
+  5
+116
+330
+114
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.857987432500876
+ 20
+4.581311021977866
+ 30
+0.0
+  0
+SEQEND
+  5
+117
+330
+114
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+118
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+119
+330
+118
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.867424742542324
+ 20
+4.660108986839418
+ 30
+0.0
+  0
+VERTEX
+  5
+11A
+330
+118
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.82746946621157
+ 20
+4.634161727001911
+ 30
+0.0
+  0
+SEQEND
+  5
+11B
+330
+118
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+11C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+11D
+330
+11C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.848721946516283
+ 20
+4.687321310340861
+ 30
+0.0
+  0
+VERTEX
+  5
+11E
+330
+11C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.810179402158584
+ 20
+4.659318512727446
+ 30
+0.0
+  0
+SEQEND
+  5
+11F
+330
+11C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+120
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+121
+330
+120
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.82862059905013
+ 20
+4.713517511584263
+ 30
+0.0
+  0
+VERTEX
+  5
+122
+330
+120
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.791596429100511
+ 20
+4.683535929916767
+ 30
+0.0
+  0
+SEQEND
+  5
+123
+330
+120
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+124
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+125
+330
+124
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.807175796540074
+ 20
+4.738625788602879
+ 30
+0.0
+  0
+VERTEX
+  5
+126
+330
+124
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.771771481674831
+ 20
+4.706747600312661
+ 30
+0.0
+  0
+SEQEND
+  5
+127
+330
+124
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+128
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+129
+330
+128
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.784446317699146
+ 20
+4.762577321354696
+ 30
+0.0
+  0
+VERTEX
+  5
+12A
+330
+128
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.750758898684453
+ 20
+4.728889902340003
+ 30
+0.0
+  0
+SEQEND
+  5
+12B
+330
+128
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+12C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+12D
+330
+12C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.760494462448984
+ 20
+4.78530646035324
+ 30
+0.0
+  0
+VERTEX
+  5
+12E
+330
+12C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.72861627415874
+ 20
+4.749902145488009
+ 30
+0.0
+  0
+SEQEND
+  5
+12F
+330
+12C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+130
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+131
+330
+130
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.735385881159951
+ 20
+4.806750906608398
+ 30
+0.0
+  0
+VERTEX
+  5
+132
+330
+130
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.70540429949243
+ 20
+4.769726736658779
+ 30
+0.0
+  0
+SEQEND
+  5
+133
+330
+130
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+134
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+135
+330
+134
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.709189394708043
+ 20
+4.826851882383594
+ 30
+0.0
+  0
+VERTEX
+  5
+136
+330
+134
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.68118659709464
+ 20
+4.788309338025897
+ 30
+0.0
+  0
+SEQEND
+  5
+137
+330
+134
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+138
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+139
+330
+138
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.681976805841764
+ 20
+4.845554292301446
+ 30
+0.0
+  0
+VERTEX
+  5
+13A
+330
+138
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.656029546004245
+ 20
+4.805599015970667
+ 30
+0.0
+  0
+SEQEND
+  5
+13B
+330
+138
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+13C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+13D
+330
+13C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.624803513812771
+ 20
+4.878558710328017
+ 30
+0.0
+  0
+VERTEX
+  5
+13E
+330
+13C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.603174859413861
+ 20
+4.836110085984753
+ 30
+0.0
+  0
+SEQEND
+  5
+13F
+330
+13C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+140
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+141
+330
+140
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.595000255581706
+ 20
+4.892773875763244
+ 30
+0.0
+  0
+VERTEX
+  5
+142
+330
+140
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.575622831848149
+ 20
+4.849251469474135
+ 30
+0.0
+  0
+SEQEND
+  5
+143
+330
+140
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+144
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+145
+330
+144
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.564493877403997
+ 20
+4.9054097777896
+ 30
+0.0
+  0
+VERTEX
+  5
+146
+330
+144
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.547420796507342
+ 20
+4.860932881445099
+ 30
+0.0
+  0
+SEQEND
+  5
+147
+330
+144
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+148
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+149
+330
+148
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.533367995141841
+ 20
+4.916431782277944
+ 30
+0.0
+  0
+VERTEX
+  5
+14A
+330
+148
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.518646053210078
+ 20
+4.871122303959383
+ 30
+0.0
+  0
+SEQEND
+  5
+14B
+330
+148
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+14C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+14D
+330
+14C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.501707922674919
+ 20
+4.925809678680139
+ 30
+0.0
+  0
+VERTEX
+  5
+14E
+330
+14C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.489377471527606
+ 20
+4.879791808518133
+ 30
+0.0
+  0
+SEQEND
+  5
+14F
+330
+14C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+150
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+151
+330
+150
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.469600438061256
+ 20
+4.933517762833945
+ 30
+0.0
+  0
+VERTEX
+  5
+152
+330
+150
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.459695274607888
+ 20
+4.886917632611951
+ 30
+0.0
+  0
+SEQEND
+  5
+153
+330
+150
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+154
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+155
+330
+154
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.43713354568437
+ 20
+4.939534907416474
+ 30
+0.0
+  0
+VERTEX
+  5
+156
+330
+154
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.429680819289463
+ 20
+4.892480244852322
+ 30
+0.0
+  0
+SEQEND
+  5
+157
+330
+154
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+158
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+159
+330
+158
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.40439623503951
+ 20
+4.943844619852698
+ 30
+0.0
+  0
+VERTEX
+  5
+15A
+330
+158
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.399416373108124
+ 20
+4.896464398505751
+ 30
+0.0
+  0
+SEQEND
+  5
+15B
+330
+158
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+15C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+15D
+330
+15C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.371478236819661
+ 20
+4.946435087520411
+ 30
+0.0
+  0
+VERTEX
+  5
+15E
+330
+15C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.368984888807163
+ 20
+4.898859173283982
+ 30
+0.0
+  0
+SEQEND
+  5
+15F
+330
+15C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+160
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+161
+330
+160
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.305462504491288
+ 20
+4.946431105954048
+ 30
+0.0
+  0
+VERTEX
+  5
+162
+330
+160
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.307955852503786
+ 20
+4.89885519171763
+ 30
+0.0
+  0
+SEQEND
+  5
+163
+330
+160
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+164
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+165
+330
+164
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.272544543030007
+ 20
+4.943840171224426
+ 30
+0.0
+  0
+VERTEX
+  5
+166
+330
+164
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.277524404961418
+ 20
+4.89645994987744
+ 30
+0.0
+  0
+SEQEND
+  5
+167
+330
+164
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+168
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+169
+330
+168
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.239807293537498
+ 20
+4.939529994290132
+ 30
+0.0
+  0
+VERTEX
+  5
+16A
+330
+168
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.24726001993238
+ 20
+4.89247533172598
+ 30
+0.0
+  0
+SEQEND
+  5
+16B
+330
+168
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+16C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+16D
+330
+16C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.207340486539098
+ 20
+4.933512389046578
+ 30
+0.0
+  0
+VERTEX
+  5
+16E
+330
+16C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.217245649992416
+ 20
+4.886912258824609
+ 30
+0.0
+  0
+SEQEND
+  5
+16F
+330
+16C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+170
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+171
+330
+170
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.175233111295989
+ 20
+4.925803849331474
+ 30
+0.0
+  0
+VERTEX
+  5
+172
+330
+170
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.187563562443302
+ 20
+4.879785979169469
+ 30
+0.0
+  0
+SEQEND
+  5
+173
+330
+170
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+174
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+175
+330
+174
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.143573171892032
+ 20
+4.916425503716343
+ 30
+0.0
+  0
+VERTEX
+  5
+176
+330
+174
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.15829511382377
+ 20
+4.871116025397757
+ 30
+0.0
+  0
+SEQEND
+  5
+177
+330
+174
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+178
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+179
+330
+178
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.112447446020446
+ 20
+4.905403057594614
+ 30
+0.0
+  0
+VERTEX
+  5
+17A
+330
+178
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.129520526917076
+ 20
+4.860926161250114
+ 30
+0.0
+  0
+SEQEND
+  5
+17B
+330
+178
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+17C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+17D
+330
+17C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.081941247132312
+ 20
+4.892766722724963
+ 30
+0.0
+  0
+VERTEX
+  5
+17E
+330
+17C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.10131867086587
+ 20
+4.849244316435892
+ 30
+0.0
+  0
+SEQEND
+  5
+17F
+330
+17C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+180
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+181
+330
+180
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.052138190598321
+ 20
+4.878551134422966
+ 30
+0.0
+  0
+VERTEX
+  5
+182
+330
+180
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.073766844997256
+ 20
+4.836102510079702
+ 30
+0.0
+  0
+SEQEND
+  5
+183
+330
+180
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+184
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+185
+330
+184
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.994968880135704
+ 20
+4.845539820121151
+ 30
+0.0
+  0
+VERTEX
+  5
+186
+330
+184
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.020916139973198
+ 20
+4.805584543790397
+ 30
+0.0
+  0
+SEQEND
+  5
+187
+330
+184
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+188
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+189
+330
+188
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.967756556634261
+ 20
+4.826837024095122
+ 30
+0.0
+  0
+VERTEX
+  5
+18A
+330
+188
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.995759354247664
+ 20
+4.788294479737399
+ 30
+0.0
+  0
+SEQEND
+  5
+18B
+330
+188
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+18C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+18D
+330
+18C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.941560355390846
+ 20
+4.806735676628957
+ 30
+0.0
+  0
+VERTEX
+  5
+18E
+330
+18C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.971541937058342
+ 20
+4.769711506679338
+ 30
+0.0
+  0
+SEQEND
+  5
+18F
+330
+18C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+190
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+191
+330
+190
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.916452078372231
+ 20
+4.785290874118888
+ 30
+0.0
+  0
+VERTEX
+  5
+192
+330
+190
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.948330266662449
+ 20
+4.74988655925367
+ 30
+0.0
+  0
+SEQEND
+  5
+193
+330
+190
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+194
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+195
+330
+194
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.892500545620426
+ 20
+4.762561395277973
+ 30
+0.0
+  0
+VERTEX
+  5
+196
+330
+194
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.926187964635119
+ 20
+4.728873976263281
+ 30
+0.0
+  0
+SEQEND
+  5
+197
+330
+194
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+198
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+199
+330
+198
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.869771406621894
+ 20
+4.738609540027824
+ 30
+0.0
+  0
+VERTEX
+  5
+19A
+330
+198
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.905175721487113
+ 20
+4.70673135173758
+ 30
+0.0
+  0
+SEQEND
+  5
+19B
+330
+198
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+19C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+19D
+330
+19C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.848326960366724
+ 20
+4.713500958738766
+ 30
+0.0
+  0
+VERTEX
+  5
+19E
+330
+19C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.885351130316343
+ 20
+4.68351937707127
+ 30
+0.0
+  0
+SEQEND
+  5
+19F
+330
+19C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1A0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1A1
+330
+1A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.828225984591515
+ 20
+4.687304472286857
+ 30
+0.0
+  0
+VERTEX
+  5
+1A2
+330
+1A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.866768528949225
+ 20
+4.659301674673467
+ 30
+0.0
+  0
+SEQEND
+  5
+1A3
+330
+1A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1A4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1A5
+330
+1A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.80952357467365
+ 20
+4.660091883420591
+ 30
+0.0
+  0
+VERTEX
+  5
+1A6
+330
+1A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.849478851004455
+ 20
+4.634144623583084
+ 30
+0.0
+  0
+SEQEND
+  5
+1A7
+330
+1A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1A8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1A9
+330
+1A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.776519156647092
+ 20
+4.602918591391598
+ 30
+0.0
+  0
+VERTEX
+  5
+1AA
+330
+1A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.818967780990357
+ 20
+4.581289936992688
+ 30
+0.0
+  0
+SEQEND
+  5
+1AB
+330
+1A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1AC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1AD
+330
+1AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.762303991211866
+ 20
+4.573115333160533
+ 30
+0.0
+  0
+VERTEX
+  5
+1AE
+330
+1AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.805826397500974
+ 20
+4.553737909426963
+ 30
+0.0
+  0
+SEQEND
+  5
+1AF
+330
+1AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1B0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1B1
+330
+1B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.749668089185497
+ 20
+4.542608954982837
+ 30
+0.0
+  0
+VERTEX
+  5
+1B2
+330
+1B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.794144985529997
+ 20
+4.525535874086182
+ 30
+0.0
+  0
+SEQEND
+  5
+1B3
+330
+1B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1B4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1B5
+330
+1B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.738646084697166
+ 20
+4.511483072720668
+ 30
+0.0
+  0
+VERTEX
+  5
+1B6
+330
+1B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.783955563015714
+ 20
+4.496761130788918
+ 30
+0.0
+  0
+SEQEND
+  5
+1B7
+330
+1B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1B8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1B9
+330
+1B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.729268188294971
+ 20
+4.479823000253746
+ 30
+0.0
+  0
+VERTEX
+  5
+1BA
+330
+1B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.775286058456977
+ 20
+4.467492549106447
+ 30
+0.0
+  0
+SEQEND
+  5
+1BB
+330
+1B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1BC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1BD
+330
+1BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.721560104141177
+ 20
+4.447715515640084
+ 30
+0.0
+  0
+VERTEX
+  5
+1BE
+330
+1BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.768160234363159
+ 20
+4.437810352186716
+ 30
+0.0
+  0
+SEQEND
+  5
+1BF
+330
+1BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1C0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1C1
+330
+1C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.715542959558635
+ 20
+4.415248623263198
+ 30
+0.0
+  0
+VERTEX
+  5
+1C2
+330
+1C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.762597622122787
+ 20
+4.407795896868316
+ 30
+0.0
+  0
+SEQEND
+  5
+1C3
+330
+1C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1C4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1C5
+330
+1C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.711233247122411
+ 20
+4.38251131261835
+ 30
+0.0
+  0
+VERTEX
+  5
+1C6
+330
+1C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.758613468469371
+ 20
+4.377531450686964
+ 30
+0.0
+  0
+SEQEND
+  5
+1C7
+330
+1C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1C8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1C9
+330
+1C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.708642779454686
+ 20
+4.349593314398488
+ 30
+0.0
+  0
+VERTEX
+  5
+1CA
+330
+1C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.756218693691127
+ 20
+4.347099966386003
+ 30
+0.0
+  0
+SEQEND
+  5
+1CB
+330
+1C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1CC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1CD
+330
+1CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.708646761021062
+ 20
+4.283577582070115
+ 30
+0.0
+  0
+VERTEX
+  5
+1CE
+330
+1CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.756222675257491
+ 20
+4.286070930082612
+ 30
+0.0
+  0
+SEQEND
+  5
+1CF
+330
+1CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1D0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1D1
+330
+1D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.711237695750697
+ 20
+4.250659620608846
+ 30
+0.0
+  0
+VERTEX
+  5
+1D2
+330
+1D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.758617917097669
+ 20
+4.255639482540232
+ 30
+0.0
+  0
+SEQEND
+  5
+1D3
+330
+1D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1D4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1D5
+330
+1D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.715547872684978
+ 20
+4.217922371116325
+ 30
+0.0
+  0
+VERTEX
+  5
+1D6
+330
+1D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.76260253524913
+ 20
+4.225375097511207
+ 30
+0.0
+  0
+SEQEND
+  5
+1D7
+330
+1D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1D8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1D9
+330
+1D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.721565477928531
+ 20
+4.185455564117913
+ 30
+0.0
+  0
+VERTEX
+  5
+1DA
+330
+1D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.7681656081505
+ 20
+4.195360727571256
+ 30
+0.0
+  0
+SEQEND
+  5
+1DB
+330
+1D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1DC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1DD
+330
+1DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.729274017643635
+ 20
+4.153348188874816
+ 30
+0.0
+  0
+VERTEX
+  5
+1DE
+330
+1DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.775291887805641
+ 20
+4.165678640022128
+ 30
+0.0
+  0
+SEQEND
+  5
+1DF
+330
+1DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1E0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1E1
+330
+1E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.73865236325878
+ 20
+4.121688249470859
+ 30
+0.0
+  0
+VERTEX
+  5
+1E2
+330
+1E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.783961841577352
+ 20
+4.136410191402597
+ 30
+0.0
+  0
+SEQEND
+  5
+1E3
+330
+1E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1E4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1E5
+330
+1E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.749674809380495
+ 20
+4.090562523599273
+ 30
+0.0
+  0
+VERTEX
+  5
+1E6
+330
+1E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.794151705724996
+ 20
+4.107635604495928
+ 30
+0.0
+  0
+SEQEND
+  5
+1E7
+330
+1E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1E8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1E9
+330
+1E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.762311144250134
+ 20
+4.060056324711139
+ 30
+0.0
+  0
+VERTEX
+  5
+1EA
+330
+1E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.80583355053923
+ 20
+4.079433748444696
+ 30
+0.0
+  0
+SEQEND
+  5
+1EB
+330
+1E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1EC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1ED
+330
+1EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.776526732552143
+ 20
+4.030253268177148
+ 30
+0.0
+  0
+VERTEX
+  5
+1EE
+330
+1EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.818975356895407
+ 20
+4.051881922576083
+ 30
+0.0
+  0
+SEQEND
+  5
+1EF
+330
+1EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1F0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1F1
+330
+1F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.809538046853945
+ 20
+3.973083957714531
+ 30
+0.0
+  0
+VERTEX
+  5
+1F2
+330
+1F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.849493323184737
+ 20
+3.999031217552051
+ 30
+0.0
+  0
+SEQEND
+  5
+1F3
+330
+1F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1F4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1F5
+330
+1F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.828240842880001
+ 20
+3.945871634213088
+ 30
+0.0
+  0
+VERTEX
+  5
+1F6
+330
+1F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.866783387237724
+ 20
+3.973874431826491
+ 30
+0.0
+  0
+SEQEND
+  5
+1F7
+330
+1F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1F8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1F9
+330
+1F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.848342190346153
+ 20
+3.919675432969673
+ 30
+0.0
+  0
+VERTEX
+  5
+1FA
+330
+1F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.885366360295771
+ 20
+3.949657014637169
+ 30
+0.0
+  0
+SEQEND
+  5
+1FB
+330
+1F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+1FC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+1FD
+330
+1FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.869786992856234
+ 20
+3.894567155951058
+ 30
+0.0
+  0
+VERTEX
+  5
+1FE
+330
+1FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.905191307721452
+ 20
+3.926445344241276
+ 30
+0.0
+  0
+SEQEND
+  5
+1FF
+330
+1FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+200
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+201
+330
+200
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.892516471697136
+ 20
+3.870615623199253
+ 30
+0.0
+  0
+VERTEX
+  5
+202
+330
+200
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.926203890711829
+ 20
+3.904303042213946
+ 30
+0.0
+  0
+SEQEND
+  5
+203
+330
+200
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+204
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+205
+330
+204
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.916468326947299
+ 20
+3.847886484200722
+ 30
+0.0
+  0
+VERTEX
+  5
+206
+330
+204
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.948346515237542
+ 20
+3.88329079906594
+ 30
+0.0
+  0
+SEQEND
+  5
+207
+330
+204
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+208
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+209
+330
+208
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.941576908236357
+ 20
+3.826442037945551
+ 30
+0.0
+  0
+VERTEX
+  5
+20A
+330
+208
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.971558489903853
+ 20
+3.86346620789517
+ 30
+0.0
+  0
+SEQEND
+  5
+20B
+330
+208
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+20C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+20D
+330
+20C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.96777339468824
+ 20
+3.806341062170354
+ 30
+0.0
+  0
+VERTEX
+  5
+20E
+330
+20C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.995776192301642
+ 20
+3.844883606528052
+ 30
+0.0
+  0
+SEQEND
+  5
+20F
+330
+20C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+210
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+211
+330
+210
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.994985983554519
+ 20
+3.787638652252503
+ 30
+0.0
+  0
+VERTEX
+  5
+212
+330
+210
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+6.020933243392013
+ 20
+3.827593928583282
+ 30
+0.0
+  0
+SEQEND
+  5
+213
+330
+210
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+214
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+215
+330
+214
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.382781310835386
+ 20
+3.787653124432786
+ 30
+0.0
+  0
+VERTEX
+  5
+216
+330
+214
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.35683405099788
+ 20
+3.827608400763539
+ 30
+0.0
+  0
+SEQEND
+  5
+217
+330
+214
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+218
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+219
+330
+218
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.409993634336829
+ 20
+3.806355920458827
+ 30
+0.0
+  0
+VERTEX
+  5
+21A
+330
+218
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.381990836723414
+ 20
+3.844898464816525
+ 30
+0.0
+  0
+SEQEND
+  5
+21B
+330
+218
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+21C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+21D
+330
+21C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.436189835580231
+ 20
+3.826457267925004
+ 30
+0.0
+  0
+VERTEX
+  5
+21E
+330
+21C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.406208253912736
+ 20
+3.863481437874624
+ 30
+0.0
+  0
+SEQEND
+  5
+21F
+330
+21C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+220
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+221
+330
+220
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.46129811259886
+ 20
+3.847902070435036
+ 30
+0.0
+  0
+VERTEX
+  5
+222
+330
+220
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.429419924308629
+ 20
+3.883306385300279
+ 30
+0.0
+  0
+SEQEND
+  5
+223
+330
+220
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+224
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+225
+330
+224
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.485249645350664
+ 20
+3.870631549275963
+ 30
+0.0
+  0
+VERTEX
+  5
+226
+330
+224
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.451562226335972
+ 20
+3.904318968290681
+ 30
+0.0
+  0
+SEQEND
+  5
+227
+330
+224
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+228
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+229
+330
+228
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.507978784349208
+ 20
+3.894583404526126
+ 30
+0.0
+  0
+VERTEX
+  5
+22A
+330
+228
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.472574469483978
+ 20
+3.92646159281637
+ 30
+0.0
+  0
+SEQEND
+  5
+22B
+330
+228
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+22C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+22D
+330
+22C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.52942323060438
+ 20
+3.919691985815184
+ 30
+0.0
+  0
+VERTEX
+  5
+22E
+330
+22C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.492399060654734
+ 20
+3.949673567482705
+ 30
+0.0
+  0
+SEQEND
+  5
+22F
+330
+22C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+230
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+231
+330
+230
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.549524206379563
+ 20
+3.945888472267092
+ 30
+0.0
+  0
+VERTEX
+  5
+232
+330
+230
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.510981662021865
+ 20
+3.97389126988047
+ 30
+0.0
+  0
+SEQEND
+  5
+233
+330
+230
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+234
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+235
+330
+234
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.568226616297427
+ 20
+3.973101061133345
+ 30
+0.0
+  0
+VERTEX
+  5
+236
+330
+234
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.528271339966636
+ 20
+3.999048320970865
+ 30
+0.0
+  0
+SEQEND
+  5
+237
+330
+234
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+238
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+239
+330
+238
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.601231034323986
+ 20
+4.030274353162339
+ 30
+0.0
+  0
+VERTEX
+  5
+23A
+330
+238
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.558782409980735
+ 20
+4.051903007561249
+ 30
+0.0
+  0
+SEQEND
+  5
+23B
+330
+238
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+23C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+23D
+330
+23C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.615446199759213
+ 20
+4.060077611393404
+ 30
+0.0
+  0
+VERTEX
+  5
+23E
+330
+23C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.571923793470116
+ 20
+4.079455035126961
+ 30
+0.0
+  0
+SEQEND
+  5
+23F
+330
+23C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+240
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+241
+330
+240
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.628082101785568
+ 20
+4.090583989571112
+ 30
+0.0
+  0
+VERTEX
+  5
+242
+330
+240
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.583605205441068
+ 20
+4.107657070467768
+ 30
+0.0
+  0
+SEQEND
+  5
+243
+330
+240
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+244
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+245
+330
+244
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.639104106273925
+ 20
+4.121709871833269
+ 30
+0.0
+  0
+VERTEX
+  5
+246
+330
+244
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.593794627955352
+ 20
+4.136431813765019
+ 30
+0.0
+  0
+SEQEND
+  5
+247
+330
+244
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+248
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+249
+330
+248
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.648482002676107
+ 20
+4.15336994430019
+ 30
+0.0
+  0
+VERTEX
+  5
+24A
+330
+248
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.602464132514101
+ 20
+4.165700395447516
+ 30
+0.0
+  0
+SEQEND
+  5
+24B
+330
+248
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+24C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+24D
+330
+24C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.656190086829914
+ 20
+4.185477428913878
+ 30
+0.0
+  0
+VERTEX
+  5
+24E
+330
+24C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.60958995660792
+ 20
+4.195382592367233
+ 30
+0.0
+  0
+SEQEND
+  5
+24F
+330
+24C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+250
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+251
+330
+250
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.662207231412455
+ 20
+4.217944321290752
+ 30
+0.0
+  0
+VERTEX
+  5
+252
+330
+250
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.615152568848278
+ 20
+4.225397047685647
+ 30
+0.0
+  0
+SEQEND
+  5
+253
+330
+250
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+254
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+255
+330
+254
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.666516943848667
+ 20
+4.2506816319356
+ 30
+0.0
+  0
+VERTEX
+  5
+256
+330
+254
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.61913672250172
+ 20
+4.255661493866985
+ 30
+0.0
+  0
+SEQEND
+  5
+257
+330
+254
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+258
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+259
+330
+258
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.669107411516393
+ 20
+4.283599630155461
+ 30
+0.0
+  0
+VERTEX
+  5
+25A
+330
+258
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.621531497279951
+ 20
+4.286092978167946
+ 30
+0.0
+  0
+SEQEND
+  5
+25B
+330
+258
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+25C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+25D
+330
+25C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.669103429950016
+ 20
+4.349615362483834
+ 30
+0.0
+  0
+VERTEX
+  5
+25E
+330
+25C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.621527515713599
+ 20
+4.347122014471337
+ 30
+0.0
+  0
+SEQEND
+  5
+25F
+330
+25C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+260
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+261
+330
+260
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.666512495220394
+ 20
+4.382533323945103
+ 30
+0.0
+  0
+VERTEX
+  5
+262
+330
+260
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.619132273873421
+ 20
+4.377553462013704
+ 30
+0.0
+  0
+SEQEND
+  5
+263
+330
+260
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+264
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+265
+330
+264
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.6622023182861
+ 20
+4.415270573437612
+ 30
+0.0
+  0
+VERTEX
+  5
+266
+330
+264
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.615147655721949
+ 20
+4.407817847042742
+ 30
+0.0
+  0
+SEQEND
+  5
+267
+330
+264
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+268
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+269
+330
+268
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.65618471304256
+ 20
+4.447737380436024
+ 30
+0.0
+  0
+VERTEX
+  5
+26A
+330
+268
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.609584582820578
+ 20
+4.437832216982681
+ 30
+0.0
+  0
+SEQEND
+  5
+26B
+330
+268
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+26C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+26D
+330
+26C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.648476173327443
+ 20
+4.479844755679133
+ 30
+0.0
+  0
+VERTEX
+  5
+26E
+330
+26C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.602458303165437
+ 20
+4.467514304531833
+ 30
+0.0
+  0
+SEQEND
+  5
+26F
+330
+26C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+270
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+271
+330
+270
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.639097827712312
+ 20
+4.511504695083103
+ 30
+0.0
+  0
+VERTEX
+  5
+272
+330
+270
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.593788349393725
+ 20
+4.496782753151352
+ 30
+0.0
+  0
+SEQEND
+  5
+273
+330
+270
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+274
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+275
+330
+274
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.628075381590596
+ 20
+4.542630420954676
+ 30
+0.0
+  0
+VERTEX
+  5
+276
+330
+274
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.583598485246069
+ 20
+4.525557340058033
+ 30
+0.0
+  0
+SEQEND
+  5
+277
+330
+274
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+278
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+279
+330
+278
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.615439046720945
+ 20
+4.57313661984281
+ 30
+0.0
+  0
+VERTEX
+  5
+27A
+330
+278
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.57191664043186
+ 20
+4.553759196109253
+ 30
+0.0
+  0
+SEQEND
+  5
+27B
+330
+278
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+27C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+27D
+330
+27C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.601223458418935
+ 20
+4.602939676376801
+ 30
+0.0
+  0
+VERTEX
+  5
+27E
+330
+27C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.558774834075671
+ 20
+4.581311021977866
+ 30
+0.0
+  0
+SEQEND
+  5
+27F
+330
+27C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+280
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+281
+330
+280
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.56821214411712
+ 20
+4.660108986839418
+ 30
+0.0
+  0
+VERTEX
+  5
+282
+330
+280
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.528256867786366
+ 20
+4.634161727001911
+ 30
+0.0
+  0
+SEQEND
+  5
+283
+330
+280
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+284
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+285
+330
+284
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.549509348091091
+ 20
+4.687321310340861
+ 30
+0.0
+  0
+VERTEX
+  5
+286
+330
+284
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.51096680373338
+ 20
+4.659318512727446
+ 30
+0.0
+  0
+SEQEND
+  5
+287
+330
+284
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+288
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+289
+330
+288
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.529408000624926
+ 20
+4.713517511584263
+ 30
+0.0
+  0
+VERTEX
+  5
+28A
+330
+288
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.492383830675307
+ 20
+4.683535929916767
+ 30
+0.0
+  0
+SEQEND
+  5
+28B
+330
+288
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+28C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+28D
+330
+28C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.50796319811487
+ 20
+4.738625788602879
+ 30
+0.0
+  0
+VERTEX
+  5
+28E
+330
+28C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.472558883249639
+ 20
+4.706747600312661
+ 30
+0.0
+  0
+SEQEND
+  5
+28F
+330
+28C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+290
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+291
+330
+290
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.485233719273942
+ 20
+4.762577321354696
+ 30
+0.0
+  0
+VERTEX
+  5
+292
+330
+290
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.451546300259249
+ 20
+4.728889902340003
+ 30
+0.0
+  0
+SEQEND
+  5
+293
+330
+290
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+294
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+295
+330
+294
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.461281864023792
+ 20
+4.78530646035324
+ 30
+0.0
+  0
+VERTEX
+  5
+296
+330
+294
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.429403675733548
+ 20
+4.749902145488009
+ 30
+0.0
+  0
+SEQEND
+  5
+297
+330
+294
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+298
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+299
+330
+298
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.436173282734747
+ 20
+4.806750906608398
+ 30
+0.0
+  0
+VERTEX
+  5
+29A
+330
+298
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.406191701067225
+ 20
+4.769726736658779
+ 30
+0.0
+  0
+SEQEND
+  5
+29B
+330
+298
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+29C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+29D
+330
+29C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.409976796282838
+ 20
+4.826851882383594
+ 30
+0.0
+  0
+VERTEX
+  5
+29E
+330
+29C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.381973998669435
+ 20
+4.788309338025897
+ 30
+0.0
+  0
+SEQEND
+  5
+29F
+330
+29C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2A0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2A1
+330
+2A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.382764207416559
+ 20
+4.845554292301446
+ 30
+0.0
+  0
+VERTEX
+  5
+2A2
+330
+2A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.356816947579053
+ 20
+4.805599015970667
+ 30
+0.0
+  0
+SEQEND
+  5
+2A3
+330
+2A0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2A4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2A5
+330
+2A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.325590915387566
+ 20
+4.878558710328017
+ 30
+0.0
+  0
+VERTEX
+  5
+2A6
+330
+2A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.303962260988656
+ 20
+4.836110085984753
+ 30
+0.0
+  0
+SEQEND
+  5
+2A7
+330
+2A4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2A8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2A9
+330
+2A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.295787657156501
+ 20
+4.892773875763244
+ 30
+0.0
+  0
+VERTEX
+  5
+2AA
+330
+2A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.276410233422944
+ 20
+4.849251469474135
+ 30
+0.0
+  0
+SEQEND
+  5
+2AB
+330
+2A8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2AC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2AD
+330
+2AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.265281278978805
+ 20
+4.9054097777896
+ 30
+0.0
+  0
+VERTEX
+  5
+2AE
+330
+2AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.24820819808215
+ 20
+4.860932881445099
+ 30
+0.0
+  0
+SEQEND
+  5
+2AF
+330
+2AC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2B0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2B1
+330
+2B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.234155396716649
+ 20
+4.916431782277944
+ 30
+0.0
+  0
+VERTEX
+  5
+2B2
+330
+2B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.219433454784886
+ 20
+4.871122303959383
+ 30
+0.0
+  0
+SEQEND
+  5
+2B3
+330
+2B0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2B4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2B5
+330
+2B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.202495324249715
+ 20
+4.925809678680139
+ 30
+0.0
+  0
+VERTEX
+  5
+2B6
+330
+2B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.190164873102415
+ 20
+4.879791808518133
+ 30
+0.0
+  0
+SEQEND
+  5
+2B7
+330
+2B4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2B8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2B9
+330
+2B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.170387839636052
+ 20
+4.933517762833945
+ 30
+0.0
+  0
+VERTEX
+  5
+2BA
+330
+2B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.160482676182684
+ 20
+4.886917632611951
+ 30
+0.0
+  0
+SEQEND
+  5
+2BB
+330
+2B8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2BC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2BD
+330
+2BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.137920947259166
+ 20
+4.939534907416474
+ 30
+0.0
+  0
+VERTEX
+  5
+2BE
+330
+2BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.130468220864271
+ 20
+4.892480244852322
+ 30
+0.0
+  0
+SEQEND
+  5
+2BF
+330
+2BC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2C0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2C1
+330
+2C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.105183636614318
+ 20
+4.943844619852698
+ 30
+0.0
+  0
+VERTEX
+  5
+2C2
+330
+2C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.100203774682933
+ 20
+4.896464398505751
+ 30
+0.0
+  0
+SEQEND
+  5
+2C3
+330
+2C0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2C4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2C5
+330
+2C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.072265638394456
+ 20
+4.946435087520411
+ 30
+0.0
+  0
+VERTEX
+  5
+2C6
+330
+2C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.069772290381971
+ 20
+4.898859173283982
+ 30
+0.0
+  0
+SEQEND
+  5
+2C7
+330
+2C4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2C8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2C9
+330
+2C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.006249906066083
+ 20
+4.946431105954048
+ 30
+0.0
+  0
+VERTEX
+  5
+2CA
+330
+2C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+5.008743254078581
+ 20
+4.89885519171763
+ 30
+0.0
+  0
+SEQEND
+  5
+2CB
+330
+2C8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2CC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2CD
+330
+2CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.973331944604815
+ 20
+4.943840171224426
+ 30
+0.0
+  0
+VERTEX
+  5
+2CE
+330
+2CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.978311806536213
+ 20
+4.89645994987744
+ 30
+0.0
+  0
+SEQEND
+  5
+2CF
+330
+2CC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2D0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2D1
+330
+2D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.940594695112294
+ 20
+4.939529994290132
+ 30
+0.0
+  0
+VERTEX
+  5
+2D2
+330
+2D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.948047421507176
+ 20
+4.89247533172598
+ 30
+0.0
+  0
+SEQEND
+  5
+2D3
+330
+2D0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2D4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2D5
+330
+2D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.908127888113894
+ 20
+4.933512389046578
+ 30
+0.0
+  0
+VERTEX
+  5
+2D6
+330
+2D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.918033051567224
+ 20
+4.886912258824609
+ 30
+0.0
+  0
+SEQEND
+  5
+2D7
+330
+2D4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2D8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2D9
+330
+2D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.876020512870784
+ 20
+4.925803849331474
+ 30
+0.0
+  0
+VERTEX
+  5
+2DA
+330
+2D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.888350964018096
+ 20
+4.879785979169469
+ 30
+0.0
+  0
+SEQEND
+  5
+2DB
+330
+2D8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2DC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2DD
+330
+2DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.844360573466828
+ 20
+4.916425503716343
+ 30
+0.0
+  0
+VERTEX
+  5
+2DE
+330
+2DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.859082515398566
+ 20
+4.871116025397757
+ 30
+0.0
+  0
+SEQEND
+  5
+2DF
+330
+2DC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2E0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2E1
+330
+2E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.813234847595241
+ 20
+4.905403057594614
+ 30
+0.0
+  0
+VERTEX
+  5
+2E2
+330
+2E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.830307928491885
+ 20
+4.860926161250114
+ 30
+0.0
+  0
+SEQEND
+  5
+2E3
+330
+2E0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2E4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2E5
+330
+2E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.782728648707107
+ 20
+4.892766722724963
+ 30
+0.0
+  0
+VERTEX
+  5
+2E6
+330
+2E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.802106072440665
+ 20
+4.849244316435892
+ 30
+0.0
+  0
+SEQEND
+  5
+2E7
+330
+2E4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2E8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2E9
+330
+2E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.752925592173116
+ 20
+4.878551134422966
+ 30
+0.0
+  0
+VERTEX
+  5
+2EA
+330
+2E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.774554246572052
+ 20
+4.836102510079702
+ 30
+0.0
+  0
+SEQEND
+  5
+2EB
+330
+2E8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2EC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2ED
+330
+2EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.6957562817105
+ 20
+4.845539820121151
+ 30
+0.0
+  0
+VERTEX
+  5
+2EE
+330
+2EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.721703541548006
+ 20
+4.805584543790397
+ 30
+0.0
+  0
+SEQEND
+  5
+2EF
+330
+2EC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2F0
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2F1
+330
+2F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.668543958209057
+ 20
+4.826837024095122
+ 30
+0.0
+  0
+VERTEX
+  5
+2F2
+330
+2F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.696546755822472
+ 20
+4.788294479737399
+ 30
+0.0
+  0
+SEQEND
+  5
+2F3
+330
+2F0
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2F4
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2F5
+330
+2F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.642347756965642
+ 20
+4.806735676628957
+ 30
+0.0
+  0
+VERTEX
+  5
+2F6
+330
+2F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.672329338633138
+ 20
+4.769711506679338
+ 30
+0.0
+  0
+SEQEND
+  5
+2F7
+330
+2F4
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2F8
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2F9
+330
+2F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.617239479947039
+ 20
+4.785290874118888
+ 30
+0.0
+  0
+VERTEX
+  5
+2FA
+330
+2F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.649117668237245
+ 20
+4.74988655925367
+ 30
+0.0
+  0
+SEQEND
+  5
+2FB
+330
+2F8
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+2FC
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+2FD
+330
+2FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.593287947195222
+ 20
+4.762561395277973
+ 30
+0.0
+  0
+VERTEX
+  5
+2FE
+330
+2FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.626975366209914
+ 20
+4.728873976263281
+ 30
+0.0
+  0
+SEQEND
+  5
+2FF
+330
+2FC
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+300
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+301
+330
+300
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.57055880819669
+ 20
+4.738609540027824
+ 30
+0.0
+  0
+VERTEX
+  5
+302
+330
+300
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.605963123061908
+ 20
+4.70673135173758
+ 30
+0.0
+  0
+SEQEND
+  5
+303
+330
+300
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+304
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+305
+330
+304
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.54911436194152
+ 20
+4.713500958738766
+ 30
+0.0
+  0
+VERTEX
+  5
+306
+330
+304
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.586138531891138
+ 20
+4.68351937707127
+ 30
+0.0
+  0
+SEQEND
+  5
+307
+330
+304
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+308
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+309
+330
+308
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.529013386166323
+ 20
+4.687304472286857
+ 30
+0.0
+  0
+VERTEX
+  5
+30A
+330
+308
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.567555930524021
+ 20
+4.659301674673467
+ 30
+0.0
+  0
+SEQEND
+  5
+30B
+330
+308
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+30C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+30D
+330
+30C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.510310976248459
+ 20
+4.660091883420591
+ 30
+0.0
+  0
+VERTEX
+  5
+30E
+330
+30C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.55026625257925
+ 20
+4.634144623583084
+ 30
+0.0
+  0
+SEQEND
+  5
+30F
+330
+30C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+310
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+311
+330
+310
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.4773065582219
+ 20
+4.602918591391598
+ 30
+0.0
+  0
+VERTEX
+  5
+312
+330
+310
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.519755182565164
+ 20
+4.581289936992688
+ 30
+0.0
+  0
+SEQEND
+  5
+313
+330
+310
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+314
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+315
+330
+314
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.463091392786674
+ 20
+4.573115333160533
+ 30
+0.0
+  0
+VERTEX
+  5
+316
+330
+314
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.506613799075782
+ 20
+4.553737909426963
+ 30
+0.0
+  0
+SEQEND
+  5
+317
+330
+314
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+318
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+319
+330
+318
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.450455490760305
+ 20
+4.542608954982837
+ 30
+0.0
+  0
+VERTEX
+  5
+31A
+330
+318
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.494932387104805
+ 20
+4.525535874086182
+ 30
+0.0
+  0
+SEQEND
+  5
+31B
+330
+318
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+31C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+31D
+330
+31C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.439433486271974
+ 20
+4.511483072720668
+ 30
+0.0
+  0
+VERTEX
+  5
+31E
+330
+31C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.484742964590522
+ 20
+4.496761130788918
+ 30
+0.0
+  0
+SEQEND
+  5
+31F
+330
+31C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+320
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+321
+330
+320
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.430055589869779
+ 20
+4.479823000253746
+ 30
+0.0
+  0
+VERTEX
+  5
+322
+330
+320
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.476073460031785
+ 20
+4.467492549106447
+ 30
+0.0
+  0
+SEQEND
+  5
+323
+330
+320
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+324
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+325
+330
+324
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.422347505715985
+ 20
+4.447715515640084
+ 30
+0.0
+  0
+VERTEX
+  5
+326
+330
+324
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.468947635937966
+ 20
+4.437810352186716
+ 30
+0.0
+  0
+SEQEND
+  5
+327
+330
+324
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+328
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+329
+330
+328
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.416330361133443
+ 20
+4.415248623263198
+ 30
+0.0
+  0
+VERTEX
+  5
+32A
+330
+328
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.463385023697596
+ 20
+4.407795896868316
+ 30
+0.0
+  0
+SEQEND
+  5
+32B
+330
+328
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+32C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+32D
+330
+32C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.412020648697219
+ 20
+4.38251131261835
+ 30
+0.0
+  0
+VERTEX
+  5
+32E
+330
+32C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.459400870044179
+ 20
+4.377531450686964
+ 30
+0.0
+  0
+SEQEND
+  5
+32F
+330
+32C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+330
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+331
+330
+330
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.409430181029494
+ 20
+4.349593314398488
+ 30
+0.0
+  0
+VERTEX
+  5
+332
+330
+330
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.457006095265935
+ 20
+4.347099966386003
+ 30
+0.0
+  0
+SEQEND
+  5
+333
+330
+330
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+334
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+335
+330
+334
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.40943416259587
+ 20
+4.283577582070115
+ 30
+0.0
+  0
+VERTEX
+  5
+336
+330
+334
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.457010076832299
+ 20
+4.286070930082612
+ 30
+0.0
+  0
+SEQEND
+  5
+337
+330
+334
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+338
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+339
+330
+338
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.412025097325505
+ 20
+4.250659620608846
+ 30
+0.0
+  0
+VERTEX
+  5
+33A
+330
+338
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.459405318672477
+ 20
+4.255639482540232
+ 30
+0.0
+  0
+SEQEND
+  5
+33B
+330
+338
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+33C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+33D
+330
+33C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.416335274259786
+ 20
+4.217922371116325
+ 30
+0.0
+  0
+VERTEX
+  5
+33E
+330
+33C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.463389936823938
+ 20
+4.225375097511207
+ 30
+0.0
+  0
+SEQEND
+  5
+33F
+330
+33C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+340
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+341
+330
+340
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.422352879503339
+ 20
+4.185455564117913
+ 30
+0.0
+  0
+VERTEX
+  5
+342
+330
+340
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.468953009725308
+ 20
+4.195360727571256
+ 30
+0.0
+  0
+SEQEND
+  5
+343
+330
+340
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+344
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+345
+330
+344
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.430061419218443
+ 20
+4.153348188874816
+ 30
+0.0
+  0
+VERTEX
+  5
+346
+330
+344
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.476079289380449
+ 20
+4.165678640022128
+ 30
+0.0
+  0
+SEQEND
+  5
+347
+330
+344
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+348
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+349
+330
+348
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.439439764833588
+ 20
+4.121688249470859
+ 30
+0.0
+  0
+VERTEX
+  5
+34A
+330
+348
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.484749243152161
+ 20
+4.136410191402597
+ 30
+0.0
+  0
+SEQEND
+  5
+34B
+330
+348
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+34C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+34D
+330
+34C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.450462210955303
+ 20
+4.090562523599273
+ 30
+0.0
+  0
+VERTEX
+  5
+34E
+330
+34C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.494939107299804
+ 20
+4.107635604495928
+ 30
+0.0
+  0
+SEQEND
+  5
+34F
+330
+34C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+350
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+351
+330
+350
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.463098545824942
+ 20
+4.060056324711139
+ 30
+0.0
+  0
+VERTEX
+  5
+352
+330
+350
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.506620952114038
+ 20
+4.079433748444696
+ 30
+0.0
+  0
+SEQEND
+  5
+353
+330
+350
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+354
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+355
+330
+354
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.477314134126951
+ 20
+4.030253268177148
+ 30
+0.0
+  0
+VERTEX
+  5
+356
+330
+354
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.519762758470216
+ 20
+4.051881922576083
+ 30
+0.0
+  0
+SEQEND
+  5
+357
+330
+354
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+358
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+359
+330
+358
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.510325448428754
+ 20
+3.973083957714531
+ 30
+0.0
+  0
+VERTEX
+  5
+35A
+330
+358
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.550280724759532
+ 20
+3.999031217552051
+ 30
+0.0
+  0
+SEQEND
+  5
+35B
+330
+358
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+35C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+35D
+330
+35C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.529028244454808
+ 20
+3.945871634213088
+ 30
+0.0
+  0
+VERTEX
+  5
+35E
+330
+35C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.567570788812518
+ 20
+3.973874431826491
+ 30
+0.0
+  0
+SEQEND
+  5
+35F
+330
+35C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+360
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+361
+330
+360
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.54912959192096
+ 20
+3.919675432969673
+ 30
+0.0
+  0
+VERTEX
+  5
+362
+330
+360
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.586153761870579
+ 20
+3.949657014637169
+ 30
+0.0
+  0
+SEQEND
+  5
+363
+330
+360
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+364
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+365
+330
+364
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.570574394431029
+ 20
+3.894567155951058
+ 30
+0.0
+  0
+VERTEX
+  5
+366
+330
+364
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.605978709296247
+ 20
+3.926445344241276
+ 30
+0.0
+  0
+SEQEND
+  5
+367
+330
+364
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+368
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+369
+330
+368
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.593303873271944
+ 20
+3.870615623199253
+ 30
+0.0
+  0
+VERTEX
+  5
+36A
+330
+368
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.626991292286637
+ 20
+3.904303042213946
+ 30
+0.0
+  0
+SEQEND
+  5
+36B
+330
+368
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+36C
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+36D
+330
+36C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.617255728522107
+ 20
+3.847886484200722
+ 30
+0.0
+  0
+VERTEX
+  5
+36E
+330
+36C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.649133916812338
+ 20
+3.88329079906594
+ 30
+0.0
+  0
+SEQEND
+  5
+36F
+330
+36C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+370
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+371
+330
+370
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.642364309811152
+ 20
+3.826442037945551
+ 30
+0.0
+  0
+VERTEX
+  5
+372
+330
+370
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.672345891478648
+ 20
+3.86346620789517
+ 30
+0.0
+  0
+SEQEND
+  5
+373
+330
+370
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+374
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+375
+330
+374
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.668560796263048
+ 20
+3.806341062170354
+ 30
+0.0
+  0
+VERTEX
+  5
+376
+330
+374
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.696563593876451
+ 20
+3.844883606528052
+ 30
+0.0
+  0
+SEQEND
+  5
+377
+330
+374
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+POLYLINE
+  5
+378
+330
+50
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+379
+330
+378
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.695773385129314
+ 20
+3.787638652252503
+ 30
+0.0
+  0
+VERTEX
+  5
+37A
+330
+378
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.721720644966821
+ 20
+3.827593928583282
+ 30
+0.0
+  0
+SEQEND
+  5
+37B
+330
+378
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+ENDBLK
+  5
+53
+330
+50
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  5
+51
+330
+1F
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+100
+AcDbBlockReference
+  2
+BLOCK_2
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POLYLINE
+  5
+37C
+330
+1F
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDb2dPolyline
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  5
+37D
+330
+37C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+7.179661718150656
+ 20
+3.292999610270726
+ 30
+0.0
+  0
+VERTEX
+  5
+37E
+330
+37C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.369999475594947
+ 20
+3.292999610270726
+ 30
+0.0
+  0
+VERTEX
+  5
+37F
+330
+37C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+4.369999475594947
+ 20
+5.573380524521073
+ 30
+0.0
+  0
+VERTEX
+  5
+380
+330
+37C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+7.179661718150656
+ 20
+5.573380524521073
+ 30
+0.0
+  0
+VERTEX
+  5
+381
+330
+37C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+100
+AcDbVertex
+100
+AcDb2dVertex
+ 10
+7.179661718150656
+ 20
+3.292999610270726
+ 30
+0.0
+  0
+SEQEND
+  5
+382
+330
+37C
+100
+AcDbEntity
+  8
+PCB_TICKMARKS_---_SOLDERMA
+ 62
+   220
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MATERIAL
+350
+3B
+  3
+ACAD_MLEADERSTYLE
+350
+385
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_VISUALSTYLE
+350
+2A
+  3
+ACDBVARIABLEDICTIONARY
+350
+383
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+3B
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+  3
+BYBLOCK
+350
+3D
+  3
+BYLAYER
+350
+3C
+  3
+GLOBAL
+350
+3E
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+385
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+  3
+STANDARD
+350
+18
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+2A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+  3
+2DWIREFRAME
+350
+2F
+  3
+3D_HIDDEN
+350
+31
+  3
+3DWIREFRAME
+350
+30
+  3
+BASIC
+350
+32
+  3
+BRIGHTEN
+350
+36
+  3
+COLORCHANGE
+350
+3A
+  3
+CONCEPTUAL
+350
+34
+  3
+DIM
+350
+35
+  3
+FACEPATTERN
+350
+39
+  3
+FLAT
+350
+2B
+  3
+FLATWITHEDGES
+350
+2C
+  3
+GOURAUD
+350
+2D
+  3
+GOURAUDWITHEDGES
+350
+2E
+  3
+LINEPATTERN
+350
+38
+  3
+REALISTIC
+350
+33
+  3
+THICKEN
+350
+37
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+DICTIONARY
+  5
+383
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+  3
+DIMASSOC
+350
+386
+  3
+HIDETEXT
+350
+387
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     0
+  0
+MATERIAL
+  5
+3D
+102
+{ACAD_REACTORS
+330
+3B
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+38A
+102
+}
+330
+3B
+100
+AcDbMaterial
+  1
+ByBlock
+  0
+MATERIAL
+  5
+3C
+102
+{ACAD_REACTORS
+330
+3B
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+388
+102
+}
+330
+3B
+100
+AcDbMaterial
+  1
+ByLayer
+  0
+MATERIAL
+  5
+3E
+102
+{ACAD_REACTORS
+330
+3B
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+38C
+102
+}
+330
+3B
+100
+AcDbMaterial
+  1
+Global
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACAD_PROXY_OBJECT
+  5
+2F
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      436
+310
+42CC9915DA5C99599C985B595049028333333333333E3BF0000000000000FB0107901411070040501600405405064090741402480A0340
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+31
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      500
+310
+424CD108121A5919195B90640502408333333333333E3BF0000000000000FB01079024090700405020000000000001110200405405064090740C02480A0340
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+30
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      436
+310
+42CCD915DA5C99599C985B595059028333333333333E3BF0000000000000FB0107901411070040501600405405064090741402480A0340
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+32
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      388
+310
+4150985CDA58D07406404333333333333E3BF0000000000000FB0107A41107004050150841D405064090741402480A0350
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+36
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      428
+310
+42109C9A59DA1D195B90C409028333333333333E3BF0000000000000FB010790141107004050150841D405064090741402480A029950
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+3A
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      452
+310
+42D0DBDB1BDC90DA185B99D95104090240C333333333333E3BF0000000000000FB0108901411070040501508421405064090741402480A0350
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+34
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      500
+310
+4290DBDB98D95C1D1D585B10940D028333333333333E3BF0000000000000FB0107902409070040501000000000000111010841D405064090740C02480A0340
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+35
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      412
+310
+40D11A5B50B409028333333333333E3BF0000000000000FB010790141107004050150841D405064090741402480A02677FFFFFD0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+39
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      444
+310
+42D19858D95C185D1D195C9B90F409028333333333333E3BF0000000000000FB010790141107004050150841D405064090741402480A0350
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+2B
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      388
+310
+41119B185D240901404333333333333E3BF0000000000000F9010740A41107004050150841D405064090741402480A1B50
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+2C
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      476
+310
+43519B185D15DA5D1A115919D95CD0140901404333333333333E3BF0000000000000F9010740901411070040501600405405064090741402480A1B50
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+2D
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      412
+310
+41D1DBDD5C985D5910240902404333333333333E3BF0000000000000F9010740A411070040501641D405064090741402480A1B50
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+2E
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      500
+310
+4411DBDD5C985D5915DA5D1A115919D95CD0340902404333333333333E3BF0000000000000F9010740901411070040501600405405064090741402480A1B50
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+38
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      444
+310
+42D31A5B995C185D1D195C9B90E409028333333333333E3BF0000000000000FB010790141107004050750841D405064090741402483A0350
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+33
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      420
+310
+425499585B1A5CDD1A58D08409028333333333333E3BF0000000000000FB01079019070040501508421405064090741402480A1B40
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ACAD_PROXY_OBJECT
+  5
+37
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbZombieObject
+ 90
+      499
+ 91
+      501
+ 93
+      412
+310
+41D51A1A58DAD95B90D409028333333333333E3BF0000000000000FB010790141107004050150C41D405064090741402480A0350
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+DICTIONARYVAR
+  5
+386
+102
+{ACAD_REACTORS
+330
+383
+102
+}
+330
+383
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+387
+102
+{ACAD_REACTORS
+330
+383
+102
+}
+330
+383
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+DICTIONARY
+  5
+38A
+330
+3D
+100
+AcDbDictionary
+  3
+ACAD_XREC_ROUNDTRIP
+360
+38B
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     1
+  0
+DICTIONARY
+  5
+388
+330
+3C
+100
+AcDbDictionary
+  3
+ACAD_XREC_ROUNDTRIP
+360
+389
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     1
+  0
+DICTIONARY
+  5
+38C
+330
+3E
+100
+AcDbDictionary
+  3
+ACAD_XREC_ROUNDTRIP
+360
+38D
+1001
+ACAD
+1000
+TREAT_AS_HARD
+1070
+     1
+  0
+XRECORD
+  5
+38B
+102
+{ACAD_REACTORS
+330
+38A
+102
+}
+330
+38A
+100
+AcDbXrecord
+102
+MATERIAL
+148
+0.0
+149
+0.0
+149
+0.0
+ 93
+        0
+ 94
+      127
+282
+     0
+ 72
+     1
+ 77
+     1
+171
+     1
+175
+     1
+179
+     1
+273
+     0
+  0
+XRECORD
+  5
+389
+102
+{ACAD_REACTORS
+330
+388
+102
+}
+330
+388
+100
+AcDbXrecord
+102
+MATERIAL
+148
+0.0
+149
+0.0
+149
+0.0
+ 93
+        0
+ 94
+      127
+282
+     0
+ 72
+     1
+ 77
+     1
+171
+     1
+175
+     1
+179
+     1
+273
+     0
+  0
+XRECORD
+  5
+38D
+102
+{ACAD_REACTORS
+330
+38C
+102
+}
+330
+38C
+100
+AcDbXrecord
+102
+MATERIAL
+148
+0.0
+149
+0.0
+149
+0.0
+ 93
+        0
+ 94
+      127
+282
+     0
+ 72
+     1
+ 77
+     1
+171
+     1
+175
+     1
+179
+     1
+273
+     0
+  0
+ENDSEC
+  0
+EOF
