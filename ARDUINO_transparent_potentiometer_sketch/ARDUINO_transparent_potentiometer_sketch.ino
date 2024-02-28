@@ -4,9 +4,9 @@
 // created by upir, 2024
 // youtube channel: https://www.youtube.com/upir_upir
 
-// YOUTUBE video: 
+// YOUTUBE video: https://youtu.be/Q3iCfZVcUjU
 // SOURCE files: https://github.com/upiir/arduino_transparent_potentiometer
-// WOKWI sketch:
+// WOKWI sketch: https://wokwi.com/projects/390977792543994881
 
 // Links from the video:
 // Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
