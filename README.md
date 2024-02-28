@@ -31,6 +31,13 @@ Pimp my Potentiometer series:
 
 Small Animations:
 
+![transparent_potentiometer_small](https://github.com/upiir/arduino_transparent_potentiometer/assets/117754156/3a5c1553-0f8d-475e-8691-c129a56cb2dc)
+
+![transparent_potentiometer_rect](https://github.com/upiir/arduino_transparent_potentiometer/assets/117754156/a6eeb4a3-d66b-4b08-b696-5a783f132892)
+
+![transparent_potentiometer_chicken](https://github.com/upiir/arduino_transparent_potentiometer/assets/117754156/ad5d6623-3cff-41c7-9a43-f2216ce2616e)
+
+![transparent_potentiometer_big](https://github.com/upiir/arduino_transparent_potentiometer/assets/117754156/7d12c29d-7226-4473-ae49-b1f654f928a4)
 
 
 
